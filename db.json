@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "ee04",
+      "title": "Comlpete RTK Query",
+      "completed": true
+    },
+    {
+      "id": "1f72",
+      "title": "asdasd",
+      "completed": true
+    },
+    {
+      "id": "7141",
+      "title": "asdadasdads",
+      "completed": false
+    },
+    {
+      "id": "1d4b",
+      "title": "asasdadad",
+      "completed": false
+    }
+  ]
+}
